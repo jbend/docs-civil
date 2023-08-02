@@ -1,5 +1,5 @@
 ---
-title: "Civil Work Order"
+title: "Civil Work Orders"
 description: "Civil Work Order API"
 ---
 
