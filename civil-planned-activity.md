@@ -1,5 +1,5 @@
 ---
-title: "Planned Activities"
+title: "Planned Activity"
 description: "Planned Activity API"
 ---
 
